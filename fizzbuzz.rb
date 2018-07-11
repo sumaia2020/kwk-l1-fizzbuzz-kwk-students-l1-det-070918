@@ -8,4 +8,4 @@ def game(number)
     puts "fizzbuzz"
   end 
 end 
-game(5)
+game(15)
