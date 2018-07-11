@@ -1,6 +1,6 @@
 def game(number)
 
-  elsif number %5 && number %3==0
+  elsif number %5==0 && number %3==0
     puts "fizzbuzz"
    if number % 3==0
     puts "fizz"
