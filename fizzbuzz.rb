@@ -10,4 +10,4 @@ def game(number)
     puts "nil"
   end 
 end 
-game(10)
+game(15)
