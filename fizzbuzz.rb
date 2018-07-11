@@ -4,7 +4,7 @@ def game(number)
     puts "fizz"
   elsif number % 5
     puts "buzz"
-  elsif number %5 && 3
+  elsif number %5 && %3
     puts "fizzbuzz"
   else
     puts "nil"
