@@ -7,7 +7,7 @@ def game(number)
   elsif number %5 && 3
     puts "fizzbuzz"
   else
-    puts ""
+    puts "nil"
   end 
 end 
 game(15)
